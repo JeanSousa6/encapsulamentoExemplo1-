@@ -9,7 +9,7 @@
 de um retângulo. Em seguida, mostrar na tela o valor de
 sua área, perímetro e diagonal.
 
-#### Saída esperada
+#### Saída esperada inserindo 3.00 de largura e 4.00 de altura
 
 ```
 Enter rectangle width and height:
