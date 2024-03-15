@@ -11,10 +11,9 @@ public class Rectangle {
     public void setHeight(double height){
         this.height = height;
     }
+  
     public double Area(){
-
         return width * height;
-
     }
 
     public double Perimeter(){
