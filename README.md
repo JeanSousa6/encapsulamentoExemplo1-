@@ -2,7 +2,7 @@
 
 #### Cálculo de Área, Perímetro e Diagonal do Retângulo
 
-[Exercício sugerido pelo curso do profº Nélio Alves](https://www.udemy.com/course/java-curso-completo/)
+[Exercício sugerido pelo curso do profº Nélio Alves - Udemy](https://www.udemy.com/course/java-curso-completo/)
 
 
 * Fazer um programa para ler os valores da largura e altura
