@@ -1,7 +1,7 @@
-package Udemy.aulas;
+
 import java.util.Locale;
 import java.util.Scanner;
-import Udemy.aulas.Rectangle;
+import encapsulamentoExemplo1.Rectangle;
 
 
 
